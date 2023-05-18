@@ -109,8 +109,12 @@ img {
     
 }
 
+.nav-link-color {
+    color: #404bbf;  
+}
+
 .studio-underline {
-  color: #404bbf;  
+  
 position: relative;
 }
 
@@ -123,6 +127,7 @@ position: relative;
     top: 44px;
     background: #404BBF;
     border-radius: 2px;
+    bottom: -1px;
 }
 
 .portfolio-underline::after {
